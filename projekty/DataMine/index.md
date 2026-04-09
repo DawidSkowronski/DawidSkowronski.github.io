@@ -13,7 +13,7 @@ title: Data Mining – Eksploracja danych
 - [Kod Rmd](./sprawozdanie.Rmd)
 
 ## Wizualizacje
-![Wykres PCA](./wykres_pca.png)  <!-- jeśli dodasz obrazki -->
+![Wykres PCA](./wykres_pca.png)
 
 ## Wyniki
 ...
