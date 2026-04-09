@@ -1,8 +1,14 @@
 ---
 ---
 
+// Importuje oryginalnego motywu
 @import "{{ site.theme }}";
 
 body {
   font-family: 'Arial', sans-serif;
+}
+
+// ZMIANA TYLKO DLA NAGŁÓWKÓW (h1, h2, h3)
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Georgia', serif;
 }
