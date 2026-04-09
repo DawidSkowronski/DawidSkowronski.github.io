@@ -1,9 +1,12 @@
+---
+title: Strona główna
+---
 
+**[Strona główna](./)** | **[Projekty](./projekty)** | **[Kontakt](#kontakt)**
 
-# Projekty
+## Projekty
 
-1) 
-
+**[Zobacz wszystkie moje projekty →](./projekty)**
 
 ## Najważniejsze kursy realizowane na studiach
 
