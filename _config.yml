@@ -5,9 +5,9 @@
 # theme: jekyll-theme-slate
 # theme: jekyll-theme-midnight
 # theme: jekyll-theme-time-machine
-# theme: jekyll-theme-architect
+theme: jekyll-theme-architect
 # theme: jekyll-theme-merlot
-theme: jekyll-theme-leap-day
+# theme: jekyll-theme-leap-day
 
-title: Moje Portfolio
+title: Portfolio
 description: Witaj na mojej stronie z projektami
