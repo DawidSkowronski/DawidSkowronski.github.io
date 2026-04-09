@@ -21,4 +21,8 @@ Sprawozdania analityczne, obejmujące m.in.
 
 ## Machine Learning - Uczenie Maszynowe
 
-👉 **[Kliknij tutaj, aby zobaczyć pełny opis 5 zadań Machine Learning](./projekty/MachineLearning)**
+👉 **[Kliknij tutaj, aby zobaczyć pełny opis zadań z Machine Learning](./projekty/MachineLearning/ML_Desc.md)**
+
+## Databases - Bazy Danych
+
+## Time Series Analysis - Analiza Szeregów Czasowych

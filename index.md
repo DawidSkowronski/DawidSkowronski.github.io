@@ -1,5 +1,5 @@
 ---
-layout: Strona główna
+title: Strona główna
 ---
 
 **[Strona główna](./)** | **[Projekty](./projekty)** | **[Kontakt](#kontakt)**
