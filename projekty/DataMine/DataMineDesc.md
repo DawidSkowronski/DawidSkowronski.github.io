@@ -1,3 +1,5 @@
+**[← Powrót do strony głównej](/)** | **[Powrót do listy projektów](/projekty)**
+
 # Data-Mining-Projects
 Repozytorium zawiera 4 kompleksowe sprawozdania analityczne przygotowane w parze podczas kursu Eksploracja Danych
 
