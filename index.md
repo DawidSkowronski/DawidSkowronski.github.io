@@ -1,12 +1,12 @@
 ---
-layout: default
+layout: Strona główna
 ---
 
 **[Strona główna](./)** | **[Projekty](./projekty)** | **[Kontakt](#kontakt)**
 
 ## Projekty
 
-👉 **[Zobacz wszystkie moje projekty →](./projekty)**
+**[Zobacz wszystkie projekty →](./projekty)**
 
 ## Najważniejsze kursy realizowane na studiach
 
