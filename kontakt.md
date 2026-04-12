@@ -2,6 +2,10 @@
 title: Kontakt
 ---
 
-#### e-mail: skowronski.dawid4@gmail.com
+**[Strona główna](./)** | **[Projekty](./projekty)** | **[Kontakt](./kontakt.md)**
 
-#### telefon: +48 534 813 149
+### e-mail: skowronski.dawid4@gmail.com
+
+
+### telefon: +48 534 813 149
+

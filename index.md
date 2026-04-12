@@ -8,17 +8,22 @@ title: Strona główna
 
 **[Zobacz wszystkie projekty →](./projekty)**
 
+## WYKSZTAŁCENIE
+* *10/2023 - Obecnie* **Matematyka i Analiza Danych**
+Politechnika Wrocławska, I stopień
+
 ## Najważniejsze kursy zrealizowane na studiach
 
 * Eksploracja danych w R,
 * Uczenie maszynowe,
-* Wstęp do baz danych,
+* Bazy danych,
 * Sztuczna inteligencja,
 
 <!-- -->
 
 * Analiza matematyczna,
 * Algebra,
+* Teoria grafów,
 
 <!-- -->
 
