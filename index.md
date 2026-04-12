@@ -9,9 +9,7 @@ title: Strona główna
 **[Zobacz wszystkie projekty →](./projekty)**
 
 ## WYKSZTAŁCENIE
-* *10/2023 - Obecnie* | **Matematyka i Analiza Danych**
-
-Politechnika Wrocławska, I stopień
+* *10/2023 - Obecnie* | **Matematyka i Analiza Danych** | Politechnika Wrocławska, I stopień
 
 ## Najważniejsze kursy zrealizowane na studiach
 
@@ -48,10 +46,6 @@ Politechnika Wrocławska, I stopień
 
 ## Kursy zrealizowane na platformie DataCamp
 
-&rarr; [Wszystkie certyfikaty](./DataCamp)
-
-
-*Kliknij w obrazek, aby zobaczyć pełny certyfikat PDF.*
-
-### Data Scientist with R
-[![Certyfikat Data Scientist](./DataCamp/certificate.png)](./DataCamp/certificate.pdf)
+### Introduction to Regression in R
+[![Podgląd Certyfikatu](./DataCamp/certificate.png)](./DataCamp/certificate.pdf)
+*Kliknij w obrazek, aby otworzyć wersję PDF w nowej karcie.*
