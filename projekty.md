@@ -2,14 +2,14 @@
 title: Moje projekty
 ---
 
-**[Strona główna](./)** | **[Projekty](./projekty)**
+**[Strona główna](./)** | **[Projekty](./projekty)** | **[Kontakt](./kontakt.md)**
 
 # Wszystkie projekty
 
 ## Data Mining - Eksploracja Danych
 
 
-👉 **[Kliknij tutaj, aby zobaczyć pełny opis 4 projektów Data Mining](./projekty/DataMine/DataMineDesc.md)**
+👉 **[Kliknij tutaj, aby zobaczyć pełny opis 4 projektów eksploracji danych](./projekty/DataMine/DataMineDesc.md)**
 
 Sprawozdania analityczne, obejmujące m.in. 
 * analizę churn klientów, 
@@ -21,8 +21,16 @@ Sprawozdania analityczne, obejmujące m.in.
 
 ## Machine Learning - Uczenie Maszynowe
 
-👉 **[Kliknij tutaj, aby zobaczyć pełny opis zadań z Machine Learning](./projekty/MachineLearning/ML_Desc.md)**
+👉 **[Kliknij tutaj, aby zobaczyć pełny opis zadań z uczenia maszynowego](./projekty/MachineLearning/ML_Desc.md)**
 
 ## Databases - Bazy Danych
 
+👉 **[Kliknij tutaj, aby zobaczyć pełny opis projektu z baz danych](./projekty/MachineLearning/ML_Desc.md)**
+
 ## Time Series Analysis - Analiza Szeregów Czasowych
+
+WIP
+
+## OOP in Pygame - Programowanie Obiektowe w Pygame
+
+WIP
