@@ -47,5 +47,5 @@ title: Strona główna
 ## Kursy zrealizowane na platformie DataCamp
 
 ### Introduction to Regression in R
-![Podgląd Certyfikatu](./DataCamp/certificate.png)
+[![Podgląd Certyfikatu](./DataCamp/certificate.png)](./DataCamp/certificate.pdf)
 *Kliknij w obrazek, aby otworzyć wersję PDF w nowej karcie.*
