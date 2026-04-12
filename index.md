@@ -2,7 +2,7 @@
 title: Strona główna
 ---
 
-**[Strona główna](./)** | **[Projekty](./projekty)** | **[Kontakt](#kontakt)**
+**[Strona główna](./)** | **[Projekty](./projekty)** | **[Kontakt](./kontakt.md)**
 
 ## Projekty
 
@@ -39,4 +39,3 @@ title: Strona główna
 * Modele regresji i ich zastosowania,
 * Wstęp do teorii gier,
 * Podstawy optymalizacji
-
