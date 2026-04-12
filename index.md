@@ -48,4 +48,22 @@ title: Strona główna
 
 ### Introduction to Regression in R
 [![Podgląd Certyfikatu](./DataCamp/certificate.png)](./DataCamp/certificate.pdf)
-*Kliknij w obrazek, aby otworzyć wersję PDF w nowej karcie.*
+*Kliknij w obrazek, aby otworzyć wersję PDF.*
+
+### Practicing Statistics Interview Questions in R
+[![Podgląd Certyfikatu](./DataCamp/certificate2.png)](./DataCamp/certificate2.pdf)
+*Kliknij w obrazek, aby otworzyć wersję PDF.*
+
+
+### Intermediate Regression in R
+[![Podgląd Certyfikatu](./DataCamp/certificate3.png)](./DataCamp/certificate3.pdf)
+*Kliknij w obrazek, aby otworzyć wersję PDF.*
+
+### Generalized Linear Models in R
+[![Podgląd Certyfikatu](./DataCamp/certificate4.png)](./DataCamp/certificate4.pdf)
+*Kliknij w obrazek, aby otworzyć wersję PDF.*
+
+
+### Intermediate Python
+[![Podgląd Certyfikatu](./DataCamp/certificate5.png)](./DataCamp/certificate5.pdf)
+*Kliknij w obrazek, aby otworzyć wersję PDF.*
