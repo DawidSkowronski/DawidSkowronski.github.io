@@ -11,7 +11,8 @@ title: Moje projekty
 
 👉 **[Kliknij tutaj, aby zobaczyć pełny opis 4 projektów eksploracji danych](./projekty/DataMine/DataMineDesc.md)**
 
-Sprawozdania analityczne, obejmujące m.in. 
+Sprawozdania analityczne, obejmujące m.in.
+
 * analizę churn klientów, 
 * redukcję wymiarowości (PCA, MDS), 
 * metody klasyfikacji (k-nn, drzewa klasyfikacyjne, naiwny klasyfikator bayesowski),
@@ -25,7 +26,7 @@ Sprawozdania analityczne, obejmujące m.in.
 
 ## Databases - Bazy Danych
 
-👉 **[Kliknij tutaj, aby zobaczyć pełny opis projektu z baz danych](./projekty/MachineLearning/ML_Desc.md)**
+WIP
 
 ## Time Series Analysis - Analiza Szeregów Czasowych
 
